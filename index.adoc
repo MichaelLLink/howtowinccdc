@@ -259,6 +259,8 @@ Down Arrow...
 
 === Mid-Atlantic Region
 
+=== South-West Region
+
 * Scores are ordinal (1st in category get 1 point, 8th, 8)
 * Team Captains that go into CEO meetings with statistics like # of services online, # of injects competed, usually have better meetings
 
